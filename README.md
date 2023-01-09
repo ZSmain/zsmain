@@ -34,7 +34,7 @@ I love to work on projects that solve world problems and on visualising data in 
 <p align="left">                          
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/pandas-docs/version/1.0/_static/pandas.svg" width="96" height="32" /></a>
   <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://leafletjs.com/docs/images/logo.png" width="96" height="32" /></a>
-  <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="96" height="32" /></a>
+  <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/1b8eb5f2ea4469e45797421fc9a3732ba4bc24508bee42b5a0794317810b9180/68747470733a2f2f646f63732e63656c657279712e6465762f656e2f6c61746573742f5f696d616765732f63656c6572792d62616e6e65722d736d616c6c2e706e67" width="96" height="32" /></a>
 </p>
 
 ### Socials
