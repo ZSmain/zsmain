@@ -1,16 +1,20 @@
-👋 My name is Ismail Zouaoui
-============================
+Salam Alaykom Tod
+=============
 
-Web Developer
--------------
+Software Developer
+------------------
 
 Master In Medical Image processing and a Developer, Tech and programming lover.
+
+Used to be a fan of Desktop applations development and still (Qt & C++) and now, I mainly do Web Dev proficionally and as a hobby.
+I love to work on projects that solve world problems and on visualising data in a meaningfuly way.
 
 *   🌍  I'm based in Algeria
 *   ✉️  You can contact me at ishmael.zouaoui at gmail dot com
 *   🚀  I'm currently working on a Telecommunication Mapping Web Application for [Advanced Smart Technology](http://ast-smart.com).
 *   🧠  I'm learning Svelte/SvelteKit, Tailwind and TypeScript.
-*   ⚡  Cheese fan 🧀, Camembert specifically.
+*   🗓️  And want to learn Rust and PyO3 in the near future to make intensive backend tasks run blazingly fast 🏎️.
+*   ⚡   Cheese fan 🧀, Camembert specifically.
 
 ### Skills
 <p align="left">
@@ -25,7 +29,14 @@ Master In Medical Image processing and a Developer, Tech and programming lover.
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
-                    
+
+### Libraries.
+<p align="left">                          
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/pandas-docs/version/1.0/_static/pandas.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
 ### Socials
 <p align="left">                          
   <a href="https://www.github.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
