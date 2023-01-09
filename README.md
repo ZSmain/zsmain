@@ -1,5 +1,5 @@
-Salam Alaykom Tod
-=============
+Hola Mundo!
+===========
 
 Software Developer
 ------------------
@@ -34,11 +34,12 @@ I love to work on projects that solve world problems and on visualising data in 
 <p align="left">                          
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/pandas-docs/version/1.0/_static/pandas.svg" width="96" height="32" /></a>
   <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://leafletjs.com/docs/images/logo.png" width="96" height="32" /></a>
-  <a href="https://www.twitter.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" width="32" height="96" /></a>
 </p>
 
 ### Socials
 <p align="left">                          
   <a href="https://www.github.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
