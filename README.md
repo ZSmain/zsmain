@@ -32,14 +32,13 @@ I love to work on projects that solve world problems and on visualising data in 
 
 ### Libraries.
 <p align="left">                          
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/pandas-docs/version/1.0/_static/pandas.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/pandas-docs/version/1.0/_static/pandas.svg" width="96" height="32" /></a>
+  <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://leafletjs.com/docs/images/logo.png" width="96" height="32" /></a>
   <a href="https://www.twitter.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ### Socials
 <p align="left">                          
   <a href="https://www.github.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/zsmain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
