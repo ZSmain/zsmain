@@ -34,6 +34,7 @@ I love to work on projects that solve real world problems and on visualising dat
 <p align="left">                          
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/pandas-docs/version/1.0/_static/pandas.svg" width="96" height="32" /></a>
   <a href="https://www.linkedin.com/in/ismail-zouaoui-3777b5a1/" target="_blank" rel="noreferrer"><img src="https://leafletjs.com/docs/images/logo.png" width="96" height="32" /></a>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" width="36" height="36" alt="Chart.js" /></a>
 </p>
 
 ### Socials
