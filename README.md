@@ -7,7 +7,7 @@ Software Developer
 Master In Medical Image processing and a Developer, Tech and programming lover.
 
 Used to be a fan of Desktop applations development and still (Qt & C++) and now, I mainly do Web Dev proficionally and as a hobby.
-I love to work on projects that solve world problems and on visualising data in a meaningfuly way.
+I love to work on projects that solve real world problems and on visualising data in a comprehensive and meaningfuly way.
 
 *   🌍  I'm based in Algeria
 *   ✉️  You can contact me at ishmael.zouaoui at gmail dot com
