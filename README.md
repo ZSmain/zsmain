@@ -7,8 +7,8 @@ Software Developer
 I'm Ismail, a Software Developer with a passion for technology and programming. I hold a Master's in Medical Image Processing, and I'm dedicated to creating solutions that solve real-world problems and visualize data effectively.
 
 *   🌍 **Based in Algeria**
-*   **Contact me**: ishmael.zouaoui at gmail dot com.
-*   🚀 **Currently Working On**: [Telecommunication Mapping Web Application](http://ast-smart.com) for [Advanced Smart Technology](http://ast-smart.com)
+*   📨 **Contact me**: ishmael.zouaoui at gmail dot com.
+*   🚀 **Currently Working On**: A Telecommunication Mapping Web Application for [Advanced Smart Technology](http://ast-smart.com)
 *   🧠 **Learning**: Svelte/SvelteKit, Tailwind, and TypeScript
 *   🔜 **Future Learning Goals**: Rust and PyO3 for blazingly fast backend tasks
 *   🧀 **Fun Fact**: I'm a cheese fan, especially Camembert.
