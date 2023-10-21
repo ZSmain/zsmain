@@ -4,17 +4,14 @@ Hola Mundo!
 Software Developer
 ------------------
 
-Master In Medical Image processing and a Developer, Tech and programming lover.
+I'm Ismail, a Software Developer with a passion for technology and programming. I hold a Master's in Medical Image Processing, and I'm dedicated to creating solutions that solve real-world problems and visualize data effectively.
 
-Used to be a fan of Desktop applations development and still (Qt & C++) and now, I mainly do Web Dev proficionally and as a hobby.
-I love to work on projects that solve real world problems and on visualising data in a comprehensive and meaningfuly way.
-
-*   🌍  I'm based in Algeria
-*   ✉️  You can contact me at ishmael.zouaoui at gmail dot com
-*   🚀  I'm currently working on a Telecommunication Mapping Web Application for [Advanced Smart Technology](http://ast-smart.com).
-*   🧠  I'm learning Svelte/SvelteKit, Tailwind and TypeScript.
-*   🗓️  And want to learn Rust and PyO3 in the near future to make intensive backend tasks run blazingly fast 🏎️.
-*   ⚡   Cheese fan 🧀, Camembert specifically.
+*   🌍 **Based in Algeria**
+*   **Contact me**: ishmael.zouaoui at gmail dot com.
+*   🚀 **Currently Working On**: [Telecommunication Mapping Web Application](http://ast-smart.com) for [Advanced Smart Technology](http://ast-smart.com)
+*   🧠 **Learning**: Svelte/SvelteKit, Tailwind, and TypeScript
+*   🔜 **Future Learning Goals**: Rust and PyO3 for blazingly fast backend tasks
+*   🧀 **Fun Fact**: I'm a cheese fan, especially Camembert.
 
 ### Skills
 <p align="left">
