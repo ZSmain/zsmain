@@ -9,10 +9,10 @@ I'm Ismail, a Software Developer with a passion for technology and programming. 
 *   🌍 **Based in Algeria**
 *   📨 **Contact me**: ishmael dot zouaoui at gmail dot com.
 *   🚀 **Currently Working On**: Telecommunication Mapping Web Applications for [Advanced Smart Technology](http://ast-smart.com).
-*   🧠 **Learning**: Odin for some low level coding.
+*   🧠 **Learning**: More about JS/TS, CSS, UI and UX.
 
 ### Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,tailwindcss,bootstrap,django,svelte,postgresql)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,html,css,tailwindcss,bootstrap,django,svelte,postgresql,sqlite)
 
 ### Libraries.
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pandas,leaflet,chartjs)
